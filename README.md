@@ -11,7 +11,7 @@
 | ------------- | ------------- |
 
 <hr>
-
+<!--
 <p align="center">
 <i><b>Currently Learning:</b></i> 
   <br><br>
@@ -37,7 +37,7 @@
 
 <hr>
 
-<!---
+
 <p align = "center">
   <i><b>Profiles:</b></i><br><br>
   <center>
@@ -58,6 +58,6 @@
   </a>
   </center>
 </p>
-
+-->
 <hr>
 
