@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Sirisha
 - 🌱 Exploring every field of computer and economics.
 - 😄 Pronouns: [She/Her](https://tinyurl.com/pronounclaimCHECKER)
-- ⚡ Argghh!! Errorrrrrrrrrrs
+- ⚡ Argghh!! Errors 
 - 💯 Data or Game development ? You decide
+- 🕙 Trying to make C into A..... 
 
 <h4> Posting everything I code. </h4>
 
