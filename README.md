@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sirisha
+- 👋 Hi, I’m Sirisha 
 - 🌱 Exploring every field of computer and economics.
 - 😄 Pronouns: [She/Her](https://tinyurl.com/pronounclaimCHECKER)
 - ⚡ Argghh!! Errors 
