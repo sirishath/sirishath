@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Sirisha
-- 🌱 I’m currently learning Data Science and Economics 
+- 🌱 Exploring every field of computer and economics.
 - 😄 Pronouns: [She/Her](https://tinyurl.com/pronounclaimCHECKER)
-- ⚡ Argghh!! Errorrrrrrrrrrs 
+- ⚡ Argghh!! Errorrrrrrrrrrs
+- 💯 Data or Game development ? You decide
 
 <h4> Posting everything I code. </h4>
 
